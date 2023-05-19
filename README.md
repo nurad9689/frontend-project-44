@@ -20,3 +20,9 @@ $ brain-even
 $ brain-calc
 ```
 [![asciicast](https://asciinema.org/a/hUNBFlRbiZdojN6WJ3mRdgibq.svg)](https://asciinema.org/a/hUNBFlRbiZdojN6WJ3mRdgibq)
+
+## For start game "Brain GCD"
+```sh
+$ brain-gcd
+```
+[![asciicast](https://asciinema.org/a/Ev2tHQCyYKFC07tZLOxC1LHUG.svg)](https://asciinema.org/a/Ev2tHQCyYKFC07tZLOxC1LHUG)
