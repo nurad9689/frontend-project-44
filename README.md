@@ -14,3 +14,9 @@ $ npm link
 $ brain-even
 ```
 [![asciicast](https://asciinema.org/a/NoQ7wFLPDh7VeMKrhniLwE9aU.svg)](https://asciinema.org/a/NoQ7wFLPDh7VeMKrhniLwE9aU)
+
+## For start game "Brain Calc"
+```sh
+$ brain-calc
+```
+[![asciicast](https://asciinema.org/a/hUNBFlRbiZdojN6WJ3mRdgibq.svg)](https://asciinema.org/a/hUNBFlRbiZdojN6WJ3mRdgibq)
