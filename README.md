@@ -12,5 +12,5 @@ $ npm link
 ## For start game "Brain Even"
 ```sh
 $ brain-even
-[![asciicast](https://asciinema.org/a/NoQ7wFLPDh7VeMKrhniLwE9aU.svg)](https://asciinema.org/a/NoQ7wFLPDh7VeMKrhniLwE9aU)
 ```
+[![asciicast](https://asciinema.org/a/NoQ7wFLPDh7VeMKrhniLwE9aU.svg)](https://asciinema.org/a/NoQ7wFLPDh7VeMKrhniLwE9aU)
