@@ -16,7 +16,6 @@ const generateRound = () => {
   const startNum = getRandomNumber(1, 50);
   const step = getRandomNumber(1, 20);
   const resultProgression = generateArray(startNum, step, progressionLength);
-  
   const hiddenIndex = getRandomNumber(1, progressionLength - 1);
   const correctAnswer = String(resultProgression[hiddenIndex]);
   resultProgression[hiddenIndex] = '..';
