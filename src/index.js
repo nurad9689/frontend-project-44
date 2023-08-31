@@ -8,11 +8,11 @@ const runGameLogic = (generateRound, description) => {
   console.log(`Hello, ${username}!`);
   console.log(description);
   for (let i = 0; i < roundsNumber; i += 1) {
-    const [question, corrAnswer] = generateRound();
+    const [question, correctAnswer] = generateRound();
     console.log(`Question: ${question}`);
     const userAnswer = readlineSync.question('Your answer: ');
 
-    if (corrAnswer !== userAnswer) {
+    if (correctAnswer !== userAnswer) {
       console.log(`'${userAnswer}' is wrong answer ;(. Correct answer was '${corrAnswer}'.`);
       console.log(`Let's try again, ${username}!`);
       return;
