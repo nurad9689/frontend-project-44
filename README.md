@@ -3,7 +3,7 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/0b514f26cff851a81948/maintainability)](https://codeclimate.com/github/nurad9689/frontend-project-44/maintainability)
 
-# Brain-Game
+# Brain-Games
 
 ## Description
 «Игры разума» — набор из пяти консольных игр, построенных по принципу популярных мобильных приложений для прокачки мозга. Каждая игра задает вопросы, на которые нужно дать правильные ответы. После трех правильных ответов считается, что игра пройдена. Неправильные ответы завершают игру и предлагают пройти ее заново. Игры:
