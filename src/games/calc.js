@@ -4,7 +4,6 @@ import runGameLogic from '../index.js';
 const description = 'What is the result of the expression?';
 
 const getRandomOperator = () => {
-//  const operators = ['+', '-', '*', '/'];
   const operators = ['+', '-', '*'];
   const reandomOperatorIndex = getRandomNumber(0, operators.length - 1);
   return operators[reandomOperatorIndex];
@@ -18,8 +17,6 @@ const calculate = (operator, operand1, operand2) => {
       return operand1 - operand2;
     case '*':
       return operand1 * operand2;
-//    case '/':
-//      return operand1 / operand2;
     default:
       return '';
   }
