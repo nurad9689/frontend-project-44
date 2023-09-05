@@ -33,4 +33,4 @@ const generateRound = () => {
   return [question, correctAnswer];
 };
 
-export default runCalcGame = () => runGameLogic(generateRound, description);
+export default () => runGameLogic(generateRound, description);
